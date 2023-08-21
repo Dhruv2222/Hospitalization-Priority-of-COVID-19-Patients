@@ -1,5 +1,8 @@
 # Hospitalization-Priority-of-COVID-19-Patients
-Code of research paper on Hospitalization Priority of COVID-19 patients using Machine Learning
+Code of Hospitalization Priority of COVID-19 patients using Machine Learning
+
+# Link to the research publication
+https://ieeexplore.ieee.org/document/9563290
 
 ## Abstract
 
